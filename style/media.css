@@ -99,6 +99,24 @@
     .about__desc-title {
         width: 300px;
     }
+    .news__cards-card-title {
+        font-size: 17px;
+    }
+    .news__cards-card-text {
+        font-size: 15px;
+    }
+    .news__cards-card-info {
+        height: 260px;
+    }
+    .news__cards-card-info2 {
+        height: 260px;
+    }
+    .news__cards-card-info3 {
+        height: 260px;
+    }
+    .news__cards-card-info4 {
+        height: 260px;
+    }
 }
 
 @media screen and (max-width:350px) {
